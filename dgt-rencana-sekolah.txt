@@ -8,4 +8,4 @@ Rencana Sekolah David
     -React
 - Photography
 - php Framework
-    -Laravel
+    -laravel
