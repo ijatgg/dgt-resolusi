@@ -4,5 +4,8 @@ Rencana Sekolah David
 -Java
 -Photoshop
 - Javascript Framework
+    -Angular
+    -React
 - Photography
 - php Framework
+    -Laravel
